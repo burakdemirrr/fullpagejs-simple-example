@@ -1,0 +1,39 @@
+h1 {
+  color: #dadada;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 5rem;
+  margin-bottom: 455px;
+}
+
+.s1 {
+  background: url(pexels-cottonbro-4430320.jpg);
+  background-position: top center;
+}
+
+.s2 {
+  background: url(pexels-matthias-schleiden-7014034.jpg);
+  background-size: cover;
+}
+
+.s2 h1 {
+  color: #242121;
+}
+
+.s3 {
+  background: url(pexels-eduardo-oscar-4338128.jpg);
+}
+
+.s3 h1 {
+  color: white;
+}
+
+span {
+  background: white !important;
+}
+/*# sourceMappingURL=styles.css.map */
